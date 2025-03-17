@@ -1,1 +1,4 @@
-# Backend-takehome-problem
+backend-takehome is a Python-based command-line application designed to fetch and filter research papers from the PubMed API, specifically targeting non-academic authors affiliated with pharmaceutical or biotech companies. Built with Poetry for dependency management, the project automates the retrieval of relevant publications based on user-specified queries, applies filtering logic to identify industry-affiliated authors, and exports the refined results into a CSV file. The modular architecture includes a CLI interface for easy execution, a dedicated fetcher for API interaction, a filtering module to process author affiliations, and an exporter for structured data output. This project is ideal for researchers, analysts, and professionals in the biotech and pharmaceutical sectors looking for industry-relevant scientific literature.
+Output:
+![image](https://github.com/user-attachments/assets/91c699f4-a850-4ab2-81f9-2f7fa7fcef60)
+![image 2](https://github.com/user-attachments/assets/daca0175-55b8-4095-83c3-9ab49bc9533a)
